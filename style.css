@@ -84,6 +84,14 @@ header {
   background-size: 100% auto;
 }
 
+#video {
+  background-image: url(https://github.com/komoridesu5/ssg-bbc/blob/master/photo-bg.JPG?raw=true);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: 100% auto;
+}
+
 #wrap {
   clear: both;
   background-color: #ffffff;
