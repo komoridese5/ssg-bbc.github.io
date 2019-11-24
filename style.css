@@ -281,7 +281,7 @@ footer {
     margin: 0 5%;
   }
   
-  .log {
+  .logo {
     float: none;
     margin-top: 60px;
     text-align: center;
@@ -343,6 +343,6 @@ input:active {
    border: 1px solid skyblue;
 }
 
-#osika footer {
+#osika #video footer {
   background-color: #ffffff;
 }
