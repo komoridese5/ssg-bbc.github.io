@@ -260,6 +260,11 @@ footer {
   input {
     margin-left: 10px;
   }
+  
+  .vi {
+   width: auto;
+    float: none;
+  }
 }
 
 @media screen and (max-width: 1024px) { 
@@ -320,6 +325,11 @@ footer {
   
   input {
     margin-left: 25px;
+  }
+  
+  .vi {
+   width: auto;
+    float: none;
   }
 }
 
