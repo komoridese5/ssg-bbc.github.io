@@ -225,6 +225,7 @@ footer {
     float: none;
     margin-top: 60px;
     text-align: center;
+    width: 100%;
   }
   
   #wrap {
@@ -254,7 +255,7 @@ footer {
     font-size: 18vw;
   }
   
-  .logo img {
+  img {
     width: 100%;
   }
   
@@ -291,6 +292,7 @@ footer {
     float: none;
     margin-top: 60px;
     text-align: center;
+    width: 100%;
   }
   
   #wrap {
@@ -319,18 +321,18 @@ footer {
   #index h1 {
     font-size: 18vw;
   }
-  
-  .logo img {
-    width: 100%;
-  }
-  
+    
   input {
     margin-left: 25px;
   }
   
   .vi {
-   width: auto;
+    width: auto;
     float: none;
+  }
+  
+  img {
+    width: 100%;
   }
 }
 
