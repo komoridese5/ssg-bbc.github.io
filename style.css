@@ -131,6 +131,19 @@ h2 {
   padding-top: 45px;
 }
 
+.icon3:before {
+  content: "";
+  padding-right: 10px;
+  border-left: 7px solid #ff7f50;
+}
+
+.icon3 {
+  padding-top: 45px;
+  margin-top: 50px;
+}
+
+
+
 .clearfix:after {
   content: "";
   display: block;
@@ -366,4 +379,9 @@ input:active {
 
 #osika #video footer {
   background-color: #ffffff;
+}
+
+
+#video iframe {
+  margin-left: 50px;
 }
