@@ -182,6 +182,7 @@ h2 {
   margin: 0 10px 0 15px;
   float: right;
   font-family: serif;
+  list-style-type:lower-greek;
 }
 
 .sidebar h2 {
